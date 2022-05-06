@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\bin\Debug\net5.0\Tests.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\bin\Debug\net5.0\Tests.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\bin\Debug\net5.0\Tests.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\bin\Debug\net5.0\Tests.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\bin\Debug\net5.0\Tests.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\bin\Debug\net5.0\ref\Tests.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\bin\Debug\net5.0\Tests.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\obj\Debug\net5.0\Tests.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\obj\Debug\net5.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\obj\Debug\net5.0\Tests.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\obj\Debug\net5.0\Tests.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\obj\Debug\net5.0\Tests.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\obj\Debug\net5.0\Tests.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\obj\Debug\net5.0\ref\Tests.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\obj\Debug\net5.0\Tests.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\Tests\obj\Debug\net5.0\Tests.genruntimeconfig.cache

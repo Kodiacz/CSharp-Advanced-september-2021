@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\bin\Debug\net5.0\1.5_SquareWithMaximumSum.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\bin\Debug\net5.0\1.5_SquareWithMaximumSum.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\bin\Debug\net5.0\1.5_SquareWithMaximumSum.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\bin\Debug\net5.0\1.5_SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\bin\Debug\net5.0\1.5_SquareWithMaximumSum.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\bin\Debug\net5.0\ref\1.5_SquareWithMaximumSum.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\bin\Debug\net5.0\1.5_SquareWithMaximumSum.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\obj\Debug\net5.0\1.5_SquareWithMaximumSum.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\obj\Debug\net5.0\1.5_SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\obj\Debug\net5.0\1.5_SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\obj\Debug\net5.0\1.5_SquareWithMaximumSum.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\obj\Debug\net5.0\1.5_SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\obj\Debug\net5.0\1.5_SquareWithMaximumSum.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\obj\Debug\net5.0\ref\1.5_SquareWithMaximumSum.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\obj\Debug\net5.0\1.5_SquareWithMaximumSum.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.5_SquareWithMaximumSum\obj\Debug\net5.0\1.5_SquareWithMaximumSum.genruntimeconfig.cache

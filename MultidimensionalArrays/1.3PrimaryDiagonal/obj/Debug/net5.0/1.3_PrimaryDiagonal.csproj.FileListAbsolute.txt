@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\bin\Debug\net5.0\1.3_PrimaryDiagonal.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\bin\Debug\net5.0\1.3_PrimaryDiagonal.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\bin\Debug\net5.0\1.3_PrimaryDiagonal.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\bin\Debug\net5.0\1.3_PrimaryDiagonal.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\bin\Debug\net5.0\1.3_PrimaryDiagonal.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\bin\Debug\net5.0\ref\1.3_PrimaryDiagonal.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\bin\Debug\net5.0\1.3_PrimaryDiagonal.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\obj\Debug\net5.0\1.3_PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\obj\Debug\net5.0\1.3_PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\obj\Debug\net5.0\1.3_PrimaryDiagonal.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\obj\Debug\net5.0\1.3_PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\obj\Debug\net5.0\1.3_PrimaryDiagonal.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\obj\Debug\net5.0\ref\1.3_PrimaryDiagonal.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\obj\Debug\net5.0\1.3_PrimaryDiagonal.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.3PrimaryDiagonal\obj\Debug\net5.0\1.3_PrimaryDiagonal.genruntimeconfig.cache

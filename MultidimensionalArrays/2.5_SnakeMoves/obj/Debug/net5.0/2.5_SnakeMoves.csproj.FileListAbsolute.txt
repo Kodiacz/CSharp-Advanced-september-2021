@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\bin\Debug\net5.0\2.5_SnakeMoves.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\bin\Debug\net5.0\2.5_SnakeMoves.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\bin\Debug\net5.0\2.5_SnakeMoves.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\bin\Debug\net5.0\2.5_SnakeMoves.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\bin\Debug\net5.0\2.5_SnakeMoves.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\bin\Debug\net5.0\ref\2.5_SnakeMoves.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\bin\Debug\net5.0\2.5_SnakeMoves.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\obj\Debug\net5.0\2.5_SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\obj\Debug\net5.0\2.5_SnakeMoves.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\obj\Debug\net5.0\2.5_SnakeMoves.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\obj\Debug\net5.0\2.5_SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\obj\Debug\net5.0\2.5_SnakeMoves.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\obj\Debug\net5.0\ref\2.5_SnakeMoves.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\obj\Debug\net5.0\2.5_SnakeMoves.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.5_SnakeMoves\obj\Debug\net5.0\2.5_SnakeMoves.genruntimeconfig.cache

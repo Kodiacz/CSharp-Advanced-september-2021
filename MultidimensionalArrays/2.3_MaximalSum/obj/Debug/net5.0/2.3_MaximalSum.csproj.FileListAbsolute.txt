@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\bin\Debug\net5.0\2.3_MaximalSum.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\bin\Debug\net5.0\2.3_MaximalSum.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\bin\Debug\net5.0\2.3_MaximalSum.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\bin\Debug\net5.0\2.3_MaximalSum.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\bin\Debug\net5.0\2.3_MaximalSum.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\bin\Debug\net5.0\ref\2.3_MaximalSum.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\bin\Debug\net5.0\2.3_MaximalSum.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\obj\Debug\net5.0\2.3_MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\obj\Debug\net5.0\2.3_MaximalSum.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\obj\Debug\net5.0\2.3_MaximalSum.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\obj\Debug\net5.0\2.3_MaximalSum.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\obj\Debug\net5.0\2.3_MaximalSum.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\obj\Debug\net5.0\ref\2.3_MaximalSum.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\obj\Debug\net5.0\2.3_MaximalSum.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\obj\Debug\net5.0\2.3_MaximalSum.genruntimeconfig.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.3_MaximalSum\obj\Debug\net5.0\2.3_MaximalSum.csprojAssemblyReference.cache

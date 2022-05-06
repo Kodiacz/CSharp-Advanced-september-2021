@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\bin\Debug\net5.0\2.4_MatrixShuffling.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\bin\Debug\net5.0\2.4_MatrixShuffling.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\bin\Debug\net5.0\2.4_MatrixShuffling.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\bin\Debug\net5.0\2.4_MatrixShuffling.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\bin\Debug\net5.0\2.4_MatrixShuffling.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\bin\Debug\net5.0\ref\2.4_MatrixShuffling.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\bin\Debug\net5.0\2.4_MatrixShuffling.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\obj\Debug\net5.0\2.4_MatrixShuffling.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\obj\Debug\net5.0\2.4_MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\obj\Debug\net5.0\2.4_MatrixShuffling.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\obj\Debug\net5.0\2.4_MatrixShuffling.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\obj\Debug\net5.0\2.4_MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\obj\Debug\net5.0\2.4_MatrixShuffling.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\obj\Debug\net5.0\ref\2.4_MatrixShuffling.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\obj\Debug\net5.0\2.4_MatrixShuffling.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.4_MatrixShuffling\obj\Debug\net5.0\2.4_MatrixShuffling.genruntimeconfig.cache

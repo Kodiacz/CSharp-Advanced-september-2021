@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\bin\Debug\net5.0\1.1_SumMatrixElements.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\bin\Debug\net5.0\1.1_SumMatrixElements.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\bin\Debug\net5.0\1.1_SumMatrixElements.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\bin\Debug\net5.0\1.1_SumMatrixElements.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\bin\Debug\net5.0\1.1_SumMatrixElements.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\bin\Debug\net5.0\ref\1.1_SumMatrixElements.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\bin\Debug\net5.0\1.1_SumMatrixElements.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\obj\Debug\net5.0\1.1_SumMatrixElements.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\obj\Debug\net5.0\1.1_SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\obj\Debug\net5.0\1.1_SumMatrixElements.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\obj\Debug\net5.0\1.1_SumMatrixElements.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\obj\Debug\net5.0\1.1_SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\obj\Debug\net5.0\1.1_SumMatrixElements.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\obj\Debug\net5.0\ref\1.1_SumMatrixElements.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\obj\Debug\net5.0\1.1_SumMatrixElements.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.1_SumMatrixElements\obj\Debug\net5.0\1.1_SumMatrixElements.genruntimeconfig.cache

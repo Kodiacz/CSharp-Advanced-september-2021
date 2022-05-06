@@ -1,0 +1,16 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\bin\Debug\net5.0\1.6_JaggedArrayModification.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\bin\Debug\net5.0\1.6_JaggedArrayModification.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\bin\Debug\net5.0\1.6_JaggedArrayModification.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\bin\Debug\net5.0\1.6_JaggedArrayModification.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\bin\Debug\net5.0\1.6_JaggedArrayModification.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\bin\Debug\net5.0\ref\1.6_JaggedArrayModification.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\bin\Debug\net5.0\1.6_JaggedArrayModification.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\obj\Debug\net5.0\1.6_JaggedArrayModification.csprojAssemblyReference.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\obj\Debug\net5.0\1.6_JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\obj\Debug\net5.0\1.6_JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\obj\Debug\net5.0\1.6_JaggedArrayModification.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\obj\Debug\net5.0\1.6_JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\obj\Debug\net5.0\1.6_JaggedArrayModification.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\obj\Debug\net5.0\ref\1.6_JaggedArrayModification.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\obj\Debug\net5.0\1.6_JaggedArrayModification.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\1.6_JaggedArrayModification\obj\Debug\net5.0\1.6_JaggedArrayModification.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\bin\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.exe
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\bin\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.deps.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\bin\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.runtimeconfig.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\bin\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.runtimeconfig.dev.json
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\bin\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\bin\Debug\net5.0\ref\2.2_TwoByTwoSquaresInMatrix.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\bin\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\obj\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\obj\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.AssemblyInfoInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\obj\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.AssemblyInfo.cs
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\obj\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\obj\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\obj\Debug\net5.0\ref\2.2_TwoByTwoSquaresInMatrix.dll
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\obj\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.pdb
+C:\Simeon\Programing\SoftUni Academy\SoftUni Tasks\MultidimensionalArrays\2.2_TwoByTwoSquaresInMatrix\obj\Debug\net5.0\2.2_TwoByTwoSquaresInMatrix.genruntimeconfig.cache
